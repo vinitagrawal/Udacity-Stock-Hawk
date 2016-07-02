@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="material_blue_700">#1976D2</color>
+  <color name="material_blue_500">#2196F3</color>
+  <color name="material_red_700">#D50000</color>
+  <color name="material_green_700">#00C853</color>
+
+  <color name="widget_header_background">#09C</color>
+  <color name="white">#ffffff</color>
+
+
+  <color name="graph_label">#26C6DA</color>
+  <color name="graph_fill">#3326C6DA</color>
+  <color name="graph_dot">#26C6DA</color>
+</resources>
